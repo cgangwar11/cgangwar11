@@ -48,3 +48,7 @@ I am focusing on writing scalable AI services to support realtime business insig
 <a href="https://github.com/cgangwar11/cgangwar11">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cgangwar11&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+### 📫 Reach me at 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1024px-Linkedin.svg.png" width="15px">  [LinkedIn](https://www.linkedin.com/in/chandan-gangwar0511/)
